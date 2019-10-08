@@ -1,0 +1,14 @@
+CMakeCache.txt
+CMakeFiles/*
+Makefile
+build/*
+cmake_install.cmake
+dist/*
+jetbot.egg-info/*
+
+jetbot/CMakeFiles/*
+jetbot/ssd_tensorrt/CMakeFiles/*
+jetbot/ssd_tensorrt/libssd_tensorrt.so
+
+notebooks/**/.ipynb_checkpoints/*
+notebooks/collision_avoidance/resources/*
